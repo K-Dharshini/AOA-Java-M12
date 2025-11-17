@@ -1,7 +1,7 @@
 
 # EX 2C Job Sequencing using Greedy Approach
-## DATE:
-## AIM:
+## Date:
+## Aim:
 To write a Java program to for given constraints. You're given N jobs, each with:
 
 - A unique jobId
