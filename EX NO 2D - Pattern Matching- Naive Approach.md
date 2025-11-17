@@ -5,7 +5,7 @@
 To write a Java program to for given constraints. Given text string with length n and a pattern with length m, the task is to prints all occurrences of pattern in text.
 Note: You may assume that n > m.
 
-### Examples:
+**Examples:**
 
 **Input:**  text = "THIS IS A TEST TEXT", pattern = "TEST"  
 **Output:** Pattern found at index 10
